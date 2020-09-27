@@ -1,0 +1,18 @@
+body{
+    height: 3000px;
+}
+#custom-navbar .navbar-nav>li>a{
+    font-size: 16px;
+    margin-left: 10px;
+}
+#custom-navbar .navbar-nav>.active>a{
+    color: #f65a8a;
+    background-color: transparent;
+}
+#custom-navbar .navbar-nav>li>a:hover{
+    color: #f65a8a;
+    
+}
+#custom-navbar{
+    background-color: transparent;
+}
